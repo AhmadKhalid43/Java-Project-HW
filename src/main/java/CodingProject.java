@@ -12,6 +12,7 @@ public class CodingProject {
             sum=sum+num;
 
             System.out.print(sum+" ");
+
         }
 
 
